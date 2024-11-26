@@ -9,7 +9,7 @@ I am a passionate **Data Engineer** with over **6 years of experience** in leadi
 
 ## 🔑 Key Highlights:
 - **Big Data Expertise:** Led end-to-end development of production-grade **Cloudera big data clusters**, including **Major & Minor upgrades** and **performance tuning**.
-- **AWS Cloud Migration ** Successfully migrated on-premises machine learning models and pipelines to **AWS** using **SageMaker**, **Snowflake**, and **Redshift**, improving efficiency by over 30%.
+- **AWS Cloud Migration:** Successfully migrated on-premises machine learning models and pipelines to **AWS** using **SageMaker**, **Snowflake**, and **Redshift**, improving efficiency by over 30%.
 - **Innovation in Data Lakes:** Conducted R&D on **ClickHouse** as a **Data Lake** and **Data Warehouse**, designing and implementing **dimensional models**.
 - **Recognition:** Awarded **Data Engineering Professional of the Year 2022** at the ADL Global Awards for exceptional contributions to data projects.
 - **Leadership:** Delivered training, technical documentation, and presentations to cross-functional teams to implement optimized solutions.
@@ -54,7 +54,7 @@ I am a passionate **Data Engineer** with over **6 years of experience** in leadi
 - **Spark Ecosystem:** Apache Spark, PySpark, Spark SQL, Livy, Zeppelin
 - **ETL & Workflow Orchestration:** NiFi, Airflow, Talend, Apache Hop
 - **SQL ,NOSQL & RDBMS:** MySQL, MariaDB, Galera ,MongoDB
-- ****Real-Time Data Processing** : Apache Kafka 
+- **Real-Time Data Processing:** Apache Kafka 
 
 ### ☁️ **Cloud Platforms**
 - **AWS:** Glue, Redshift, S3, Athena, SageMaker
@@ -65,7 +65,7 @@ I am a passionate **Data Engineer** with over **6 years of experience** in leadi
 - **Languages:** Python, SQL, Scala, Bash Shell Scripting
 - **Datawarehousing:** Dimensional Modeling, Data Observability , Data lakes, Data lakehouse  , Data marts
 
-- ****Business Intelligence | Leadership |Scrum | Agile | MLOps**
+- **Business Intelligence | Leadership |Scrum | Agile | MLOps**
 
 ### 📊 **Data Visualization & BI**
 - Tools: Tableau, Power BI, Apache Superset, AWS QuickSight
