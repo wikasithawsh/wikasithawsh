@@ -60,6 +60,7 @@ I am a passionate **Data Engineer** with over **6 years of experience** in leadi
 - **AWS:** Glue, Redshift, S3, Athena, SageMaker
 - **Azure & GCP**: Certified expertise in cloud solutions
 - **Snowflake & ClickHouse:** Advanced data warehouse management
+- **Databricks:** Expertise in advanced analytics and performance tuning
 
 ### 💻 **Programming & Scripting**
 - **Languages:** Python, SQL, Scala, Bash Shell Scripting
