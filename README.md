@@ -51,7 +51,7 @@ I am a passionate **Data Engineer** with over **6 years of experience** in leadi
 
 ### 📂 **Big Data Tools & Ecosystems**
 - **Hadoop Ecosystem:** HDFS, Hive, Hive on Tez, Hue,Impala,Oozie, Ranger, Atlas
-- **Spark Ecosystem:** Apache Spark, PySpark, Spark SQL, Livy, Zeppelin
+- **Spark Ecosystem:** Apache Spark, PySpark, Spark SQL, Livy, Zeppelin , Databricks
 - **ETL & Workflow Orchestration:** NiFi, Airflow, Talend, Apache Hop
 - **SQL ,NOSQL & RDBMS:** MySQL, MariaDB, Galera ,MongoDB
 - **Real-Time Data Processing:** Apache Kafka 
