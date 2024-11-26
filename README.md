@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm Wikasitha Herath!
 
-### 🚀 Associate Tech Lead - Data Engineering | Big Data & Cloud Migration Expert | Award-Winning Data Professional
+### 🚀 Associate Tech Lead - Data Engineering | Big Data & Cloud Migration Expert | Cloudera Specialist | Award-Winning Data Professional | M.Sc in Data Science & Engineering Analytics
 
 I am a passionate **Data Engineer** with over **6 years of experience** in leading **big data projects**, **cloud migrations**, and implementing scalable, high-performance **data pipelines**. Currently, I am excelling as an **Associate Tech Lead - Data Engineering** at **Axiata Digital Labs**, where I manage complex data ecosystems and deliver actionable insights.
 
