@@ -10,6 +10,7 @@ I am a passionate **Data Engineer** with over **6 years of experience** in leadi
 ## 🔑 Key Highlights:
 - **Big Data Expertise:** Led end-to-end development of production-grade **Cloudera big data clusters**, including **Major & Minor upgrades** and **performance tuning**.
 - **AWS Cloud Migration:** Successfully migrated on-premises machine learning models and pipelines to **AWS** using **SageMaker**, **Snowflake**, and **Redshift**, improving efficiency by over 30%.
+- ** Hands-on experience for End to end Data engineering projects ** with Azure, AWS, GCP, Snowflake , Pyspark & Databricks
 - **Innovation in Data Lakes:** Conducted R&D on **ClickHouse** as a **Data Lake** and **Data Warehouse**, designing and implementing **dimensional models**.
 - **Recognition:** Awarded **Data Engineering Professional of the Year 2022** at the ADL Global Awards for exceptional contributions to data projects.
 - **Leadership:** Delivered training, technical documentation, and presentations to cross-functional teams to implement optimized solutions.
