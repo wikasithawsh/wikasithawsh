@@ -19,8 +19,19 @@ I am a passionate **Data Engineer** with over **6 years of experience** in leadi
 
 ## 💼 Professional Experience:
 
+### Associate Architect AI & Data Analytics, **EY GDS Sri lanka**
+📍*2025 -03-31  -  Present*
+
+** Azure Big Data Project | Working with Azure Data Factory , Synapse Analytics , ADLS Gen2, Pyspark, SQL,Dimensional Modeling**
+-Designed and implemented robust ETL pipelines using Azure Data Factory and Synapse Analytics, following the Medallion architecture.
+-Performed data modeling and effectively translated complex SQL logic into PySpark transformations to support scalable data processing.
+-Automated complex manual reports through end-to-end Azure-based ETL workflows, significantly reducing operational overhead.
+-Developed and deployed Slowly Changing Dimensions (SCD) using Synapse Analytics to maintain historical accuracy in dimensional data.
+-Drafted and reviewed Business Requirement Documents (BRDs) to ensure solutions aligned with evolving business objectives.
+-Delivered precise project timelines and provided technical mentorship to junior engineers, fostering skill development and delivery excellence.
+
 ### Associate Tech Lead - Data Engineering, **Axiata Digital Labs**  
-📍 *2020 - Present*  
+📍 *2020-Aug - 2025-March*  
 
 - Installed & Managed **Cloudera** big data services for production environments, handling upgrades, **ETL pipelines**, and system monitoring.
 - Completed set of prod major and minor Cloudera upgrades, Upgrade flow = Cloudera Manager: 5.14.4 > 7.1.4 > 7.4.4 > 7.6.1>7.6.7 || CDP Run-Time: 5.14.4 > 7.1.4 > 7.1.7 > 7.1.7 SP1 >7.1.7 SP2 with 800TB+ Data.
