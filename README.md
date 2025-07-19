@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm Wikasitha Herath!
 
-### 🚀 Associate Tech Lead - Data Engineering | Big Data & Cloud Migration Expert | Cloudera Specialist | Award-Winning Data Professional | M.Sc in Data Science & Engineering Analytics
+### 🚀 Associate Architect - Data Engineering | Big Data & Cloud Migration Expert | Cloudera Specialist | Award-Winning Data Professional | M.Sc in Data Science & Engineering Analytics
 
 I am a passionate **Data Engineer** with over **6 years of experience** in leading **big data projects**, **cloud migrations**, and implementing scalable, high-performance **data pipelines**. Currently, I am excelling as an **Associate Tech Lead - Data Engineering** at **Axiata Digital Labs**, where I manage complex data ecosystems and deliver actionable insights.
 
@@ -71,7 +71,7 @@ I am a passionate **Data Engineer** with over **6 years of experience** in leadi
 
 ### ☁️ **Cloud Platforms**
 - **AWS:** Glue, Redshift, S3, Athena, SageMaker
-- **Azure: Azure Data Factory , Synapse Analytics , ADLS Gen2, Pyspark, SQL, Dimensional Modeling
+- **Azure:** Azure Data Factory , Synapse Analytics , ADLS Gen2, Pyspark, SQL, Dimensional Modeling
 - **GCP**: Certified expertise in cloud solutions
 - **Snowflake & ClickHouse:** Advanced data warehouse management
 - **Databricks:** Expertise in advanced analytics and performance tuning
