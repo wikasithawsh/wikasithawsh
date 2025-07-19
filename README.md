@@ -22,7 +22,7 @@ I am a passionate **Data Engineer** with over **6 years of experience** in leadi
 ### Associate Architect AI & Data Analytics, **EY GDS Sri lanka**
 📍*2025 -03-31  -  Present*
 
-** Azure Big Data Project | Working with Azure Data Factory , Synapse Analytics , ADLS Gen2, Pyspark, SQL,Dimensional Modeling**
+**Azure Big Data Project | Working with Azure Data Factory , Synapse Analytics , ADLS Gen2, Pyspark, SQL,Dimensional Modeling**
 
 - Designed and implemented robust ETL pipelines using Azure Data Factory and Synapse Analytics, following the Medallion architecture.
 - Performed data modeling and effectively translated complex SQL logic into PySpark transformations to support scalable data processing.
@@ -71,7 +71,8 @@ I am a passionate **Data Engineer** with over **6 years of experience** in leadi
 
 ### ☁️ **Cloud Platforms**
 - **AWS:** Glue, Redshift, S3, Athena, SageMaker
-- **Azure & GCP**: Certified expertise in cloud solutions
+- **Azure: Azure Data Factory , Synapse Analytics , ADLS Gen2, Pyspark, SQL, Dimensional Modeling
+- **GCP**: Certified expertise in cloud solutions
 - **Snowflake & ClickHouse:** Advanced data warehouse management
 - **Databricks:** Expertise in advanced analytics and performance tuning
 
