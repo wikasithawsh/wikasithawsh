@@ -88,6 +88,7 @@ I am a passionate **Data Engineer** with over **6 years of experience** in leadi
 ---
 
 ## 📚 Certifications:
+- **Databricks Certified Data Engineer Associate 2026**
 - **Google Certified Professional Data Engineer 2023** 
 - **Google Certified Professional Machine Learning Engineer 2023**
 - **Microsoft Azure Data Scientist Associate(DP-100)**
