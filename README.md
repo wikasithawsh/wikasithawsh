@@ -94,7 +94,6 @@ I am a passionate **Data Engineer** with over **6 years of experience** in leadi
 - **Microsoft Azure Data Scientist Associate(DP-100)**
 - **Microsoft Certified: Azure Fundamentals AZ-900**
 - **Microsoft Certified: Azure AI Fundamentals AI-900**
-- **Databricks Certified Data Engineer Associate** *(In Progress)*
 - **Red Hat Certified System Administrator** (RHCSA)
 
 ---
